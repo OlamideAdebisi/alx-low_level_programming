@@ -9,6 +9,7 @@ char x;
 for (a = '0'; a < 10; a++)
 {
 for (x = 'a'; x <= 'z'; x++)
+{
 _putchar(x);
 }
 _putchar('\n');
