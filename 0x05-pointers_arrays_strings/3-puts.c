@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * _puts - this is a function that puts
- * @st: a parm to _puts function
+ * @str: a parm to _puts function
  */
 void _puts(char *str)
 {
